@@ -46,10 +46,7 @@ A comprehensive HR management solution with employee management, leave tracking,
 
 4. Open your browser and navigate to `http://localhost:5173`
 
-### Demo Login Credentials
 
-- **Admin**: admin@example.com / admin123
-- **Employee**: employee@example.com / admin123
 
 ## Project Structure
 
